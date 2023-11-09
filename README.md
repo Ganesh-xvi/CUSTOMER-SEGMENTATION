@@ -5,6 +5,7 @@ CUSTOMER SEGMENTATION
 
 It is the process of dividing a large group of customers into smaller, more manageable and homogeneous groups based on similar characteristics or behaviors. By doing so, businesses can better understand their customers' needs, preferences, and behaviors, allowing them to tailor their marketing strategies and products to meet the specific needs of each segment.
 
+![CustomerSegmentation](https://github.com/Ganesh-xvi/CUSTOMER-SEGMENTATION/assets/134574667/9cbabe0c-db4e-4821-9105-9d5c0d94c235)
 
 ## Problem Statement
 We will be working with customer segmentation dataset from Kaggle. Our goal is simple, to segment customer based on the feature variables. Using DBSACAN,K-Means,Hierarchical, an easy model to begin your journey in Unsupervised Learning.
